@@ -13,7 +13,8 @@ image blink_alya:
     repeat
 
 layeredimage alya:
-    #zoom 1.5
+    zoom 1.25
+    yanchor 0.9
 
     group back_hair:
         attribute hair_bow_pony_back default:
