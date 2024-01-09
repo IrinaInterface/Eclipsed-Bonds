@@ -84,7 +84,7 @@ layeredimage alya:
     
     group outfit_underwear:
         attribute underwear default:
-            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/Alya-Clothing_Preset_2-Bald-0.png"
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/underwear/Alya-Clothing_Preset_2-Bald-0.png"
         attribute bikini_frill:
             "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/underwear/Alya-Clothing_Preset_55-Bald-0.png"
         attribute bikini_plain:
