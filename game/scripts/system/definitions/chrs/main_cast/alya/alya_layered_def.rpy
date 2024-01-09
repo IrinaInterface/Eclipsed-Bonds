@@ -1,14 +1,14 @@
 define alya = Character(name="Alya",image_tag="alya",voice_tag="alya")
 
 image blink_alya:
-    "images/characters/main_cast/alya/layered_image_assets/pose_1/face/Alya-Naked-0-Eye_Set___Open_Neutral.png" 
+    "images/characters/main_cast/alya/layered_image_assets/pose_1/face/eye_set/Alya-Naked-0-Eye_Set___Open_Neutral.png" 
     choice:
         4.5
     choice: 
         3.5 
     choice: 
         1.5 
-    "images/characters/main_cast/alya/layered_image_assets/pose_1/face/Alya-Naked-0-Eye_Set___Closed_Neutral.png" 
+    "images/characters/main_cast/alya/layered_image_assets/pose_1/face/eye_set/Alya-Naked-0-Eye_Set___Closed_Neutral.png" 
     .15 
     repeat
 
