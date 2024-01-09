@@ -1,3 +1,5 @@
+define alya = Character(name="Alya",image_tag="alya",voice_tag="alya")
+
 image blink_alya:
     "images/characters/main_cast/alya/layered_image_assets/pose_1/face/Alya-Naked-0-Eye_Set___Open_Neutral.png" 
         choice:
