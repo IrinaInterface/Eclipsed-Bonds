@@ -82,4 +82,128 @@ layeredimage alya:
     
     group outfit_underwear:
         attribute underwear default:
-            
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/Alya-Clothing_Preset_2-Bald-0.png"
+        attribute bikini_frill:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/underwear/Alya-Clothing_Preset_55-Bald-0.png"
+        attribute bikini_plain:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/underwear/Alya-Clothing_Preset_56-Bald-0.png"
+    
+    group outfit_sailoruni:
+        attribute sailoruni:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/sailoruni/Alya-Clothing_Preset_3-Bald-0.png"
+        attribute sailoruni_indoorshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/sailoruni/Alya-Clothing_Preset_4-Bald-0.png"
+        attribute sailoruni_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/sailoruni/Alya-Clothing_Preset_5-Bald-0.png"
+        attribute sailoruni_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/sailoruni/Alya-Clothing_Preset_6-Bald-0.png"
+    
+    group outfit_workuni:
+        attribute workuni:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_7-Bald-0.png"
+        attribute workuni_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_8-Bald-0.png"
+        attribute workuni_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_9-Bald-0.png"
+        attribute workuni_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_10-Bald-0.png"
+        attribute workuni_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_11-Bald-0.png"
+        attribute workuni_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_12-Bald-0.png"
+        attribute workuni_nobow:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_13-Bald-0.png"
+        attribute workuni_nobow_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_14-Bald-0.png"
+        attribute workuni_nobow_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_15-Bald-0.png"
+        attribute workuni_nobow_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_16-Bald-0.png"
+        attribute workuni_nobow_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_17-Bald-0.png"
+        attribute workuni_nobow_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_18-Bald-0.png"
+        attribute workuni_noblazer:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_19-Bald-0.png"
+        attribute workuni_noblazer_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_20-Bald-0.png"
+        attribute workuni_noblazer_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_21-Bald-0.png"
+        attribute workuni_noblazer_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_22-Bald-0.png"
+        attribute workuni_noblazer_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_23-Bald-0.png"
+        attribute workuni_noblazer_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_24-Bald-0.png"
+        attribute workuni_noblazer_nobow:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_25-Bald-0.png"
+        attribute workuni_noblazer_nobow_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_26-Bald-0.png"
+        attribute workuni_noblazer_nobow_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_27-Bald-0.png"
+        attribute workuni_noblazer_nobow_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_28-Bald-0.png"
+        attribute workuni_noblazer_nobow_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_29-Bald-0.png"
+        attribute workuni_noblazer_nobow_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_30-Bald-0.png"
+        attribute workuni_noblazer_novest:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_31-Bald-0.png"
+        attribute workuni_noblazer_novest_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_32-Bald-0.png"
+        attribute workuni_noblazer_novest_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_33-Bald-0.png"
+        attribute workuni_noblazer_novest_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_34-Bald-0.png"
+        attribute workuni_noblazer_novest_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_35-Bald-0.png"
+        attribute workuni_noblazer_novest_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_36-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_37-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_38-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_39-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_40-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_41-Bald-0.png"
+        attribute workuni_noblazer_novest_nobow_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_42-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_43-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_44-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_45-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_46-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_47-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_48-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_49-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_50-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_51-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow_loosecollar:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_52-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow_loosecollar_noshoes:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_53-Bald-0.png"
+        attribute workuni_noblazer_novest_untucked_nobow_loosecollar_barelegs:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/workuni/Alya-Clothing_Preset_54-Bald-0.png"
+    
+    group outfit_casual:
+        attribute casual_spring:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/casual/Alya-Clothing_Preset_57-Bald-0.png"
+        attribute casual_spring_cardigan:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/casual/Alya-Clothing_Preset_58-Bald-0.png"
+        attribute casual_summer:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/casual/Alya-Clothing_Preset_59-Bald-0.png"
+    
+    group outfit_special:
+        attribute special_christmas:
+            "images/characters/main_cast/alya/layered_image_assets/pose_1/outfits/special/Alya-Clothing_Preset_62-Bald-0.png"
